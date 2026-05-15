@@ -31,8 +31,7 @@
 
 ## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pradeepdagdi7727&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeepdagdi7727&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pradeepdagdi7727&theme=tokyonight)
 
 ---
 ## 📫 Connect with Me
