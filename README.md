@@ -28,13 +28,7 @@
 - 🏆 **Ranked #1** on Coding Ninjas weekly leaderboard  
 
 ---
-## 📈 GitHub Stats
 
-![Pradeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pradeepdagdi7727&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeepdagdi7727&layout=compact&theme=tokyonight&hide_border=true)
-
----
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pradeep-dagdi-58a769297/)
