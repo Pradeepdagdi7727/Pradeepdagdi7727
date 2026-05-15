@@ -8,7 +8,7 @@
 | Project | Tech | Links |
 |---------|------|-------|
 | PickNGO – Grocery App | Node.js, MongoDB, JWT | [Live](https://pickngo-frontend.onrender.com/) [GitHub](https://github.com/Pradeepdagdi7727/PickNGo-Grocery-) |
-| Laxmi POS Billing System | Node.js, MySQL | [Live](https://laxmi-super-market.onrender.com/) | [GitHub](https://github.com/Pradeepdagdi7727/Point_Of_Sale_ERP_Software) |
+| Laxmi POS Billing System | Node.js, MySQL | [Live](https://laxmi-super-market.onrender.com/)  [GitHub](https://github.com/Pradeepdagdi7727/Point_Of_Sale_ERP_Software) |
 
 ---
 
